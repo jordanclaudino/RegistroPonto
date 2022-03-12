@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_register">Botão para Registro de Ponto</string>
+    <string name="txt_play_image">Imagem para Começo de Expediente</string>
+    <string name="txt_image_lunchtime">Imagem para Entrada do Almoço</string>
+    <string name="txt_image_return">Imagem para Retorno do Almoço</string>
+    <string name="txt_image_end">Imagem para Fim de Expediente</string>
+    <string name="txt_exemple_start">08:00:00</string>
+    <string name="txt_exemple_lunch">12:00:00</string>
+    <string name="txt_exemple_return">14:00:00</string>
+    <string name="txt_exemple_end">18:00:00</string>
+    <string name="txt_endOfTheWeek">End of the week</string>
+    <string name="txt_Right_Arrow">Right Arrow to Week Changes</string>
+    <string name="txt_left_arrow">Left Arrow to Week Changes</string>
+    <string name="txt_separator_weeks">-</string>
+</resources>
